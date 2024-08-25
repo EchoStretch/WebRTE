@@ -3,4 +3,8 @@ Open-Source WebRTE Payload Coded By [golden](https://github.com/jogolden) For PS
 
 Please Do not delete [golden](https://github.com/jogolden) Credits if you gonna modified it.
 
-
+## Credits
+- [jogolden](https://github.com/jogolden/ps4debug) - for originally creating this
+- [DeathRGH](https://github.com/DeathRGH/frame4) - for multi fw example
+- [BestPig](https://github.com/BestPig) - Help with offsets
+- [EchoStretch](https://github.com/EchoStretch/ps4debug) - Putting it all together
