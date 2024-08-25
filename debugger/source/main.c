@@ -15,7 +15,7 @@ int _main(void) {
     sceKernelSleep(1);
 
     // just a little notify
-    sceSysUtilSendSystemNotificationWithText(222, "PS4 Trainer By Golden");
+    sceSysUtilSendSystemNotificationWithText(222, "webrte by golden\nUpdated By EchoStretch");
     
     // jailbreak current thread
     sys_console_cmd(SYS_CONSOLE_CMD_JAILBREAK, NULL);

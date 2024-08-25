@@ -6,7 +6,7 @@
 #include "paramdict.h"
 #include "b64.h"
 
-char *(*strtok)(char *str, const char *delimiters);
+//char *(*strtok)(char *str, const char *delimiters);
 unsigned long long int (*strtoull)(const char *str, char **endptr, int base);
 
 struct api_operation {
